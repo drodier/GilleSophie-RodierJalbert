@@ -1,3 +1,23 @@
 #main{
-    background-color:#333333;
+    background-color:#dddddd;
+    margin:0;
+    padding:0;
+}
+
+.orange{
+    background-color:#ffb222;
+}
+
+.title{
+    width:500px;
+    height:500px;
+    border-radius:250px;
+    opacity:0.5;
+    margin:auto;
+}
+
+.heart{
+    height:100vh;
+    margin:auto;
+    display:block;
 }
